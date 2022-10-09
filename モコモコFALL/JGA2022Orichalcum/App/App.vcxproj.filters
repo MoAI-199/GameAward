@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="IntroductionProcedure.cpp" />
+    <ClCompile Include="SheepsManager.cpp">
+      <Filter>Sheep</Filter>
+    </ClCompile>
+    <ClCompile Include="SheepsController.cpp">
+      <Filter>Sheep</Filter>
+    </ClCompile>
+    <ClCompile Include="Gimmick.cpp">
+      <Filter>Gimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>Gimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="GimmickManager.cpp">
+      <Filter>Gimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="GimmickFactory.cpp">
+      <Filter>Gimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="GimmickController.cpp">
+      <Filter>Gimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp" />
+    <ClCompile Include="DeviceController.cpp" />
+    <ClCompile Include="Viewer.cpp" />
+    <ClCompile Include="ColorBall.cpp">
+      <Filter>Gimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="CloudsController.cpp">
+      <Filter>Cloud</Filter>
+    </ClCompile>
+    <ClCompile Include="CloudsManager.cpp">
+      <Filter>Cloud</Filter>
+    </ClCompile>
+    <ClCompile Include="PropellerManager.cpp" />
+    <ClCompile Include="Sheep.cpp">
+      <Filter>Sheep</Filter>
+    </ClCompile>
+    <ClCompile Include="SheepFactory.cpp">
+      <Filter>Sheep</Filter>
+    </ClCompile>
+    <ClCompile Include="Hole.cpp">
+      <Filter>Gimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMain.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneResult.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneTitle.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="FundamentalGameSystem.cpp" />
+    <ClCompile Include="CloudEvent.cpp">
+      <Filter>Cloud</Filter>
+    </ClCompile>
+    <ClCompile Include="GimmickEvent.cpp">
+      <Filter>Gimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="SheepEvent.cpp">
+      <Filter>Sheep</Filter>
+    </ClCompile>
+    <ClCompile Include="Carrot.cpp">
+      <Filter>Gimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="Cloud.cpp">
+      <Filter>Cloud</Filter>
+    </ClCompile>
+    <ClCompile Include="CloudFactory.cpp">
+      <Filter>Cloud</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="define.h" />
+    <ClCompile Include="IntroductionProcedure.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="CloudFactory.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Cloud.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClInclude Include="SheepsManager.h">
+      <Filter>Sheep</Filter>
+    </ClInclude>
+    <ClInclude Include="SheepsController.h">
+      <Filter>Sheep</Filter>
+    </ClInclude>
+    <ClInclude Include="Gimmick.h">
+      <Filter>Gimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.h">
+      <Filter>Gimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="GimmickManager.h">
+      <Filter>Gimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="GimmickFactory.h">
+      <Filter>Gimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="GimmickController.h">
+      <Filter>Gimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="DeviceController.h" />
+    <ClInclude Include="Collision.h" />
+    <ClInclude Include="Viewer.h" />
+    <ClInclude Include="ColorBall.h">
+      <Filter>Gimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="CloudsController.h">
+      <Filter>Cloud</Filter>
+    </ClInclude>
+    <ClInclude Include="CloudsManager.h">
+      <Filter>Cloud</Filter>
+    </ClInclude>
+    <ClInclude Include="PropellerManager.h" />
+    <ClInclude Include="Sheep.h">
+      <Filter>Sheep</Filter>
+    </ClInclude>
+    <ClInclude Include="SheepFactory.h">
+      <Filter>Sheep</Filter>
+    </ClInclude>
+    <ClInclude Include="Hole.h">
+      <Filter>Gimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneTitle.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMain.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneResult.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="FundamentalGameSystem.h" />
+    <ClInclude Include="CloudEvent.h">
+      <Filter>Cloud</Filter>
+    </ClInclude>
+    <ClInclude Include="GimmickEvent.h">
+      <Filter>Gimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="SheepEvent.h">
+      <Filter>Sheep</Filter>
+    </ClInclude>
+    <ClInclude Include="Carrot.h">
+      <Filter>Gimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="Cloud.h">
+      <Filter>Cloud</Filter>
+    </ClInclude>
+    <ClInclude Include="CloudFactory.h">
+      <Filter>Cloud</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CloudFactory.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Cloud.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Cloud">
+      <UniqueIdentifier>{87f557b5-9d46-4746-bc4c-54bcb841fd20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gimmick">
+      <UniqueIdentifier>{bcfa3647-5588-4264-a859-5d4da98115ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sheep">
+      <UniqueIdentifier>{3d51f1e4-d31a-4d0e-b265-e72f76026242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{be98b61b-6350-49b2-9058-220801463430}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

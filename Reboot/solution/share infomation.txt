@@ -1,0 +1,9 @@
+英語     ： Arial
+日本語 1 ： BIZ UDゴシック  ( BIZ UDGothic )
+日本語 2 ： BIZ UD明朝 中   ( BIZ UDMincho )
+
+
+注意事項：
+	英語の場合は統一
+	日本語の場合は見た目と雰囲気でどちらかを使用する
+
