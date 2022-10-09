@@ -12,13 +12,11 @@
  ・solution
 	ソリューションファイル
 　　
- ・その他
+ ・Other
 	開発に使用したプログラム以外の資料
 
- ・担当箇所
+ ・MyResponsibleCode
 	自分が担当したコード
- 
- ・reboot.mp4
 
  
 動作確認済み環境

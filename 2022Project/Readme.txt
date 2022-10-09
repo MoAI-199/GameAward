@@ -8,13 +8,13 @@
 〇resource
 	使用したリソースがすべて
 
-〇担当箇所
+〇MyResponsibleCode
 	担当した.cpp .hファイルをまとめたもの
 
 〇Readme.txt
 	このファイル
 
-〇モコモコFALL.exe
+〇Game.exe
 	実行用exeファイル
 
 
